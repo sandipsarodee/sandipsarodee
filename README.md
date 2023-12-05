@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sandip Sarode, a recent BCA graduate with a passion for software development. This repository serves as a portfolio showcasing my skills and projects during my 3-month internship and beyond.
 
 <!--
 **sandipsarodee/sandipsarodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
