@@ -1,9 +1,8 @@
 
 <h3 align="center">Java Developer | Full Stack Developer </h3>
 
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center">💫 About Me</h1>
 <h4 align="center">Hello, I'm Sandip 👋<br><br>I'm a BCA graduate with a passion for software development. Currently, I'm working on honing my skills in Java, JavaScript, Angular, React.js, Node.js, and Bootstrap 5. I recently completed a 3-month internship in software development, and now I'm eager to take on new challenges in a full-time development role.<br><br>💡 I'm Currently Working On<br><br>Exploring new projects and expanding my expertise in web development.<br><br>🤝 I'm Looking to Collaborate On<br><br>Exciting software projects that involve Java, JavaScript, Angular, React.js, Node.js, or Bootstrap 5. I'm open to collaboration and eager to contribute to innovative solutions.<br><br>🚀 I'm Looking to Help With<br><br>Anything related to web development and software engineering. Whether it's coding, debugging, or brainstorming ideas, I'm ready to lend a hand.<br><br>📚 I'm Currently Learning<br><br>Continuously improving my skills in the latest technologies and frameworks to stay at the forefront of the ever-evolving tech landscape.<br><br>❓ Ask Me About<br><br>Java, JavaScript, Angular, React.js, Node.js, Bootstrap 5, or anything related to my internship experience and academic background.<br><br>Let's connect and create something awesome together! 🚀<br></h4>
-
 
 <h1 align="center">🌐 Connect With Me</h1>
 <p align="center">
@@ -12,9 +11,7 @@
 <a  href="https://www.instagram.com/sandiipsarode/"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="python"/></a>
 <br>
 <br><br>
-<img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
 </p>
-
 
 <h1 align="center">💻 Tech Stack </h1>
 <p align="center">
@@ -45,11 +42,13 @@
 <a target="_blank" href="https://www.adobe.com/products/lightroom.html"><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/></a>
 </p>
 
-<h1 align="center">📊 GitHub Stats</h1>
+##<h1 align="center">📊 GitHub Stats</h1>
 ![](https://github-readme-stats.vercel.app/api?username=sandipsarodee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<h1 align="center">🏆 GitHub Trophies</h1>
+##<h1 align="center">🏆 GitHub Trophies</h1>
 ![](https://github-profile-trophy.vercel.app/?username=sandipsarodee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sandipsarodee&icon=5&color=0)](https://visitcount.itsvg.in)
 
+<img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
