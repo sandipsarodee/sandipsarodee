@@ -42,10 +42,11 @@
 <a target="_blank" href="https://www.adobe.com/products/lightroom.html"><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/></a>
 </p>
 
-##<h1 align="center">📊 GitHub Stats</h1>
+## <h1 align="center">📊 GitHub Stats</h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=sandipsarodee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-##<h1 align="center">🏆 GitHub Trophies</h1>
+## <h1 align="center">🏆 GitHub Trophies</h1>
 ![](https://github-profile-trophy.vercel.app/?username=sandipsarodee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
