@@ -44,11 +44,8 @@
 
 <h1 align="center">📊 Statistical Data</h1>
 
-
-
 ![](https://github-readme-stats.vercel.app/api?username=sandipsarodee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandipsarodee&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipsarodee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <h1 align="center">🏆 Trophies</h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=sandipsarodee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
