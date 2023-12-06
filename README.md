@@ -42,14 +42,19 @@
 <a target="_blank" href="https://www.adobe.com/products/lightroom.html"><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/></a>
 </p>
 
-## <h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center">📊 Statistical Data</h1>
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=sandipsarodee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandipsarodee&theme=dark&hide_border=false)<br/>
 
-## <h1 align="center">🏆 GitHub Trophies</h1>
+<h1 align="center">🏆 Trophies</h1>
+
 ![](https://github-profile-trophy.vercel.app/?username=sandipsarodee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=sandipsarodee&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
