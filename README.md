@@ -7,10 +7,9 @@
 
 <h1 align="center">🌐 Connect With Me</h1>
 <p align="center">
-<a  href="https://www.linkedin.com/in//"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="python"/></a>
-<a  href="https://www.kaggle.com/akhiljethwa"  target="_blank"><img  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"  alt="python"/></a>
-<a  href="mailto: jethwaakhil@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="python"/></a>
-<a  href="https://www.instagram.com/7_akhil_7/"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="python"/></a>
+<a  href="https://www.linkedin.com/in/sandipsarodee/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="python"/></a>
+<a  href="mailto: sandipsarodee@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="python"/></a>
+<a  href="https://www.instagram.com/sandiipsarode/"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="python"/></a>
 <br>
 <br><br>
 <img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
