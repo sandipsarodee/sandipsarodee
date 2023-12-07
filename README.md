@@ -1,3 +1,4 @@
+![Header](./GitHub-Cover.png)
 
 <h3 align="center">Java Developer | Full Stack Developer </h3>
 
@@ -44,7 +45,7 @@
 
 <h1 align="center">📊 Statistical Data</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=sandipsarodee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sandipsarodee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipsarodee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <h1 align="center">🏆 Trophies</h1>
 
